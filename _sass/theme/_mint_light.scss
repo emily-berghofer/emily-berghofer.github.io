@@ -1,44 +1,56 @@
 
 /* ==========================================================================
-   MATCHA THEME -light
+   MATCHA LATTE THEME - light
    ========================================================================== */
 
-/* Matcha-inspired color palette */
+/* Soft matcha-inspired color palette */
 
-$primary-color              : #6F7F4E;
-$dark-primary-color         : mix(#000, $primary-color, 30%);
+$primary-color              : #788F61;
+$dark-primary-color         : mix(#000, $primary-color, 28%);
 $darker-primary-color       : mix(#000, $primary-color, 50%);
 $light-primary-color        : mix(#fff, $primary-color, 45%);
 $lighter-primary-color      : mix(#fff, $primary-color, 88%);
 
-$background                 : #F8F6F1;
-$background-light           : #FCFBF8;
-$background-lighter         : #FFFFFF;
+/* Beautiful soft green background */
 
-$text                       : #3E4335;
-$text-muted                 : #73786A;
+$background                 : #E8F1DD;
+$background-light           : #F5F8EF;
+$background-lighter         : #FCFDF9;
 
-$link                       : #6F7F4E;
-$link-dark                  : #53603A;
-$link-light                 : #9DAA7D;
+/* Warm dark olive text */
 
-$footer                     : #7B8B5A;
+$text                       : #36402F;
+$text-muted                 : #6C7665;
 
-$border                     : #D9D8CF;
-$border-dark                : #BEBCAF;
+/* Matcha links */
+
+$link                       : #708754;
+$link-dark                  : #55683E;
+$link-light                 : #9DB08A;
+
+/* Footer */
+
+$footer                     : #748B58;
+
+/* Soft botanical borders */
+
+$border                     : #C7D5BA;
+$border-dark                : #AAB99B;
 
 /* Status colors */
 
-$danger-color               : #B65A4A;
-$info-color                 : #7A8B5D;
-$notice-color               : #B9C89A;
-$success-color              : #6D8A56;
-$warning-color              : #C8A76A;
+$danger-color               : #C56C65;
+$info-color                 : #87A36A;
+$notice-color               : #D7E6C5;
+$success-color              : #7A9960;
+$warning-color              : #D2B16D;
 
 /* Other settings */
 
-$border-radius              : 6px;
-$box-shadow                 : 0 2px 10px rgba(60, 65, 45, 0.08);
+$border-radius              : 10px;
+
+$box-shadow                 : 0 8px 24px rgba(68, 78, 52, 0.08);
+
 $global-transition          : all 0.25s ease;
 
 $masthead-height            : 70px;
@@ -90,5 +102,4 @@ $sidebar-screen-min-width   : 1024px;
 footer {
   color: #{$background};
 }
-
 
