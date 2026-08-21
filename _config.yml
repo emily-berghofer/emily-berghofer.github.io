@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Me!"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student in Commutative Algebra at Mälardalen University"
   location         : "Stockholm, Sweden"
   employer         : "Mälardalen University"
   uri              : # URL
@@ -38,11 +38,11 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : 
+  researchgate     : "https://www.researchgate.net/profile/Emily-Berghofer"
   scopus           : # URL
   zotero           : # URL
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
