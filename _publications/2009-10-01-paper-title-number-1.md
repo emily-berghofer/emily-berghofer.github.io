@@ -1,7 +1,7 @@
 ---
 title: "Constructing Koszul filtrations: existence and non-existence for G-quadratic algebras"
 collection: publications
-category: preprint
+category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026-02-06
