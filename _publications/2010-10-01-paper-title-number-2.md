@@ -1,7 +1,7 @@
 ---
 title: "The Pinched Veronese has no Koszul Filtration"
 collection: publications
-category: preprint
+category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2026-11-16
 paperurl: 'https://arxiv.org/abs/2611.21324'
