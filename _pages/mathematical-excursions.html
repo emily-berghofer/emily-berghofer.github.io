@@ -1,0 +1,14 @@
+---
+layout: archive
+permalink: /mathematical-excursions/
+title: "Mathematical Excursions"
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign excursions = site.posts | where_exp: "post", "post.categories contains 'mathematical-excursions'" %}
+
+{% for post in excursions reversed %}
+  {% include archive-single.html %}
+{% endfor %}
