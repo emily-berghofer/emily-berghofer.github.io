@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Linear algebra"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Mälardalen University"
+date: spring term 2025 and 2026
+location: 
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+Introductory course in linear algebra for first- or second-year engineering students.
 
 Heading 1
 ======
