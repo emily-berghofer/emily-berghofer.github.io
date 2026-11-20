@@ -10,5 +10,8 @@ author_profile: true
 {% assign excursions = site.posts | where_exp: "post", "post.categories contains 'mathematical-excursions'" %}
 
 {% for post in excursions reversed %}
+  {% if post.header.teaser %}
+    <p><img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title | escape }}" loading="lazy" style="max-width: 100%; height: auto;"></p>
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
