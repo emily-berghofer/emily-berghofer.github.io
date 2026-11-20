@@ -4,11 +4,7 @@ title: "TiME 2025"
 date: 2025-05-26
 categories:
   - mathematical-excursions
-excerpt: "Lie-Størmer Center Summer School"
+excerpt: "Lie-Størmer Center Summer School. Summer School on Invariant Theory in Tromsø, Norway."
 header:
-  teaser: /images/example-conference.jpg
+  teaser: /images/tromso.jpg
 ---
-
-![Conference photo](/images/tromso.jpg)
-
-Summer School at Lie-Størmer Center on Invariant Theory in Tromsø, Norway.
