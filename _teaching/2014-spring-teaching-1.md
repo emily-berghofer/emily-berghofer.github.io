@@ -7,7 +7,7 @@ venue: "Mälardalen University"
 date: spring term 2025 and 2026
 location: 
 ---
-Introductory course in linear algebra for first- or second-year engineering students.
+
 
 Heading 1
 ======
