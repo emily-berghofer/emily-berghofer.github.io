@@ -8,13 +8,3 @@ date: 2025-01-01
 term: "Spring term 2025 and 2026"
 location: 
 ---
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
