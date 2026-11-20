@@ -15,8 +15,13 @@ Kathlen Kohn KTH
 Alessandro Papadopulus MDU
 Thomas Westerbäck MDU
 
-
-
-Maculay 2 package
+A beautiful example of a Koszul filtration
 ======
-Check out the Maculay 2 package KoszulFiltrations on my github, soon to be submitted to Maculay 2. 
+<div style="text-align: center;">
+  <img src="/images/kfemaple.jpg" alt=" A Koszul Filtration for the Möbius algebra of the K5 graph (as shown in the corner of the picture)" width="400">
+  <p><em> A Koszul Filtration for the Möbius algebra of the K5 graph (as shown in the upper left corner of the picture). Credit to my supervisor Peder Thompson for working it out.</em></p>
+</div>
+
+Macaulay2 package
+======
+Check out the Macaulay2 package KoszulFiltrations on my github, soon to be submitted to Maculay 2. 
