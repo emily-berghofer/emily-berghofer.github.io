@@ -15,7 +15,12 @@ Kathlen Kohn KTH
 Alessandro Papadopulus MDU
 Thomas Westerbäck MDU
 
-
+A beautiful example of a Koszul filtration
+======
+<div style="text-align: center;">
+  <img src="/images/kfexample.jpg" alt=" A Koszul Filtration for the Möbius algebra of the K5 graph (as showed in the corner of the picture" width="400">
+  <p><em>Credits to my supervisor Peder Thompson for working it out.</em></p>
+</div>
 
 Maculay 2 package
 ======
