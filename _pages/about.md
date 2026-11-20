@@ -18,7 +18,7 @@ Thomas Westerbäck MDU
 A beautiful example of a Koszul filtration
 ======
 <div style="text-align: center;">
-  <img src="/images/kfexample.jpg" alt=" A Koszul Filtration for the Möbius algebra of the K5 graph (as shown in the corner of the picture)" width="400">
+  <img src="/images/kfemaple.jpg" alt=" A Koszul Filtration for the Möbius algebra of the K5 graph (as shown in the corner of the picture)" width="400">
   <p><em> A Koszul Filtration for the Möbius algebra of the K5 graph (as shown in the upper left corner of the picture). Credit to my supervisor Peder Thompson for working it out.</em></p>
 </div>
 
