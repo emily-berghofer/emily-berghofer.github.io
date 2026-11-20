@@ -11,5 +11,4 @@ header:
 
 ![Conference photo](/images/tromso.jpg)
 
-## Main headline
-Summer School at Lie-Størmer Center about Invariant Theory in Tromsø, Norway.
+Summer School at Lie-Størmer Center on Invariant Theory in Tromsø, Norway.
