@@ -8,14 +8,3 @@ date: 2025-01-01
 term: "Fall term 2026"
 location: 
 ---
-
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
