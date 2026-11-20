@@ -4,7 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Mälardalen University"
-date: spring term 2025 and 2026
+date: 2025-01-01
+term: "Spring term 2025 and 2026"
 location: 
 ---
 
